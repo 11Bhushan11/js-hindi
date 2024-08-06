@@ -18,3 +18,7 @@ object
 */
 
 console.log(typeof "hitesh")
+
+
+// null, yek object hai 
+// undefined , undefined hai 
